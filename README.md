@@ -3,3 +3,5 @@
 <href="https://github.com/jaik/jaik/blob/master/README.md">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-songok&hide=html,python,robotframework,css,javascript&layout=compact" />
 </a>
+
+![](https://komarev.com/ghpvc/?username=nicholas-songok)
